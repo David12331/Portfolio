@@ -9,7 +9,7 @@ function Header() {
 
   return (
     <header>
-      <h1>My Portfolio Page</h1>
+      <h1>Welcome to David's portfolio</h1>
       <nav className='navStyle'>
         <Link to="/">
           <div>HOME</div>
