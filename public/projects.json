@@ -2,14 +2,14 @@
     {
       "name": "Scramble",
       "live": "https://david12331.github.io/Project1/",
-      "git": "https://github.com/David12331/Project1",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "git": "https://github.com/David12331/Project1"
+      
     },
     {
       "name": "Team Management",
       "live": "https://app.netlify.app/whatever",
-      "git": "https://github.com/David12331/Project-2Team-Management/tree/main",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "git": "https://github.com/David12331/Project-2Team-Management/tree/main"
+      
     }
   ]
   

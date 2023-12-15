@@ -4,10 +4,14 @@
     top: 0;
     left: 0;
     justify-content: space-between;
-    border-bottom: .2rem double rgb(200, 0, 0);
-    /* padding-top: .5rem;
-    padding-bottom: .5rem; */
+    border-bottom: .2rem double #333; /* Dark border color */
     width: 100%;
-    background-color: greenyellow;
-    font-size: xx-large;
-  };
+    background-color: #1a1a1a; /* Dark background color */
+    font-size: 1.5rem;
+    color: darkgreen; /* Text color */
+  }
+  
+  /* Add hover styles directly to the <a> tag */
+  .navStyle a:hover {
+    color: #61dafb; /* Change color on hover to a shade of blue */
+  }

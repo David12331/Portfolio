@@ -1,5 +1,5 @@
 function Footer(props) {
-    return <h1>Footer</h1>;
+    return <h3 style={{ color: 'blue', fontSize: '1.5rem' }}>Software Developer</h3>;
   }
   
   export default Footer;
